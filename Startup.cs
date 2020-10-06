@@ -1,5 +1,4 @@
-﻿using LeaderboardMicroServices.Healper;
-using LeaderboardMicroServices.Repository;
+﻿using LeaderboardMicroServices.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
